@@ -36,10 +36,9 @@ Visit **[http://localhost:3000](http://localhost:3000)** and watch magic happen 
 ## 🛠️ Developer Playground  
 
 ### Built With Love Using:  
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-blue?logo=tailwind-css)](https://tailwindcss.com)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)](https://www.typescriptlang.org)
-
+[![Next.js](https://img.shields.io/badge/Next.js-15.2-black?logo=next.js)](https://nextjs.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-%2338BDF8?logo=tailwind-css)](https://tailwindcss.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-%233178C6?logo=typescript)](https://www.typescriptlang.org)
 ---
 
 ## 🌱 Contribute & Grow  
