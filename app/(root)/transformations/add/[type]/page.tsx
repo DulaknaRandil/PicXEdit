@@ -18,6 +18,7 @@ const AddTransformationTypePage = async ({ params }: { params: Promise<{ type: k
   return (
     <><Header title={transformation.title}
     subtitle={transformation.subTitle}/>
+    <br/>
     <TransformationForm action="Add"
      userId={user._id} type={transformation.type as TransformationTypeKey } creditBalance={user.creditBalance} />
     </>
