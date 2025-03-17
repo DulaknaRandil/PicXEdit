@@ -26,7 +26,7 @@ Visit **[http://localhost:3000](http://localhost:3000)** and watch magic happen 
 - Collaborative editing superpowers 👥  
 
 **💻 Modern Tech Stack**  
-- Next.js 14 App Router supremacy  
+- Next.js 15 App Router supremacy  
 - Tailwind CSS pixel-perfect styling 🎨  
 - Edge-ready, serverless-powered ⚡  
 - Community-driven & open-source ❤️  
